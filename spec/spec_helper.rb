@@ -36,5 +36,5 @@ RSpec.configure do |config|
       }
     }
   end
-
+binding pry
 end
