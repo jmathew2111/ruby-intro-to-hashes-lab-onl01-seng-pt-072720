@@ -2,7 +2,7 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def 
+  def nested_hashes
         monopoly =  {
       :railroads=>
       {
